@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://yren:oCUmDb1Qm2lRS325@cluster0-7m63q.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "0.0.0.0:8080"
+}
